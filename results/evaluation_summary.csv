@@ -1,0 +1,11 @@
+Configuration,Mean reward,Success rate,Mean steps
+baseline,0.0,0.0,100.0
+alpha=0.1,0.0,0.0,100.0
+alpha=0.5,0.0,0.0,100.0
+alpha=0.9,0.0,0.0,100.0
+gamma=0.50,0.0,0.0,100.0
+gamma=0.90,0.0,0.0,100.0
+gamma=0.99,0.0,0.0,100.0
+decay=0.99,0.0,0.0,100.0
+decay=0.995,0.0,0.0,100.0
+decay=0.999,0.0,0.0,100.0

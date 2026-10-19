@@ -1,0 +1,4 @@
+Setting,Mean training reward,Training success rate,Mean episode length
+gamma=0.5,0.0,0.0,99.6251
+gamma=0.9,0.0,0.0,99.59935
+gamma=0.99,0.0,0.0,99.6401
